@@ -1,0 +1,14 @@
+C:\Users\julia\OneDrive\Documentos\GitHub\Calculadora-jeronimo-Forero\Calculadora de Jeronimo\bin\Debug\netcoreapp3.1\Calculadora de Jeronimo.exe
+C:\Users\julia\OneDrive\Documentos\GitHub\Calculadora-jeronimo-Forero\Calculadora de Jeronimo\bin\Debug\netcoreapp3.1\Calculadora de Jeronimo.deps.json
+C:\Users\julia\OneDrive\Documentos\GitHub\Calculadora-jeronimo-Forero\Calculadora de Jeronimo\bin\Debug\netcoreapp3.1\Calculadora de Jeronimo.runtimeconfig.json
+C:\Users\julia\OneDrive\Documentos\GitHub\Calculadora-jeronimo-Forero\Calculadora de Jeronimo\bin\Debug\netcoreapp3.1\Calculadora de Jeronimo.runtimeconfig.dev.json
+C:\Users\julia\OneDrive\Documentos\GitHub\Calculadora-jeronimo-Forero\Calculadora de Jeronimo\bin\Debug\netcoreapp3.1\Calculadora de Jeronimo.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\Calculadora-jeronimo-Forero\Calculadora de Jeronimo\bin\Debug\netcoreapp3.1\Calculadora de Jeronimo.pdb
+C:\Users\julia\OneDrive\Documentos\GitHub\Calculadora-jeronimo-Forero\Calculadora de Jeronimo\obj\Debug\netcoreapp3.1\Calculadora de Jeronimo.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\Calculadora-jeronimo-Forero\Calculadora de Jeronimo\obj\Debug\netcoreapp3.1\Calculadora de Jeronimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Documentos\GitHub\Calculadora-jeronimo-Forero\Calculadora de Jeronimo\obj\Debug\netcoreapp3.1\Calculadora de Jeronimo.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\Calculadora-jeronimo-Forero\Calculadora de Jeronimo\obj\Debug\netcoreapp3.1\Calculadora de Jeronimo.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Documentos\GitHub\Calculadora-jeronimo-Forero\Calculadora de Jeronimo\obj\Debug\netcoreapp3.1\Calculadora de Jeronimo.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documentos\GitHub\Calculadora-jeronimo-Forero\Calculadora de Jeronimo\obj\Debug\netcoreapp3.1\Calculadora de Jeronimo.dll
+C:\Users\julia\OneDrive\Documentos\GitHub\Calculadora-jeronimo-Forero\Calculadora de Jeronimo\obj\Debug\netcoreapp3.1\Calculadora de Jeronimo.pdb
+C:\Users\julia\OneDrive\Documentos\GitHub\Calculadora-jeronimo-Forero\Calculadora de Jeronimo\obj\Debug\netcoreapp3.1\Calculadora de Jeronimo.genruntimeconfig.cache
